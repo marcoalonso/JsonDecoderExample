@@ -13,6 +13,7 @@
 		604810682653628F001A3048 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 604810662653628F001A3048 /* Main.storyboard */; };
 		6048106A26536290001A3048 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6048106926536290001A3048 /* Assets.xcassets */; };
 		6048106D26536290001A3048 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6048106B26536290001A3048 /* LaunchScreen.storyboard */; };
+		60481079265366EB001A3048 /* NewsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60481078265366EB001A3048 /* NewsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		6048106926536290001A3048 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6048106C26536290001A3048 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6048106E26536290001A3048 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		60481078265366EB001A3048 /* NewsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				6048106926536290001A3048 /* Assets.xcassets */,
 				6048106B26536290001A3048 /* LaunchScreen.storyboard */,
 				6048106E26536290001A3048 /* Info.plist */,
+				60481078265366EB001A3048 /* NewsViewController.swift */,
 			);
 			path = JSONDecoderExample;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 				604810652653628F001A3048 /* ViewController.swift in Sources */,
 				604810612653628F001A3048 /* AppDelegate.swift in Sources */,
 				604810632653628F001A3048 /* SceneDelegate.swift in Sources */,
+				60481079265366EB001A3048 /* NewsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
